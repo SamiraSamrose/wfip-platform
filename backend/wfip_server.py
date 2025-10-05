@@ -1,6 +1,6 @@
 """
-Web Feature Intelligence Platform (WFIP) - Production Ready
-Complete implementation with real data integration, API, crawler, and integrations
+Web Feature Intelligence Platform (WFIP) 
+
 """
 
 import json
