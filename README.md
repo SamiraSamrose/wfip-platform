@@ -12,7 +12,7 @@ By integrating directly into development workflows (linters, transpilers, CI/CD,
 
 - Demo: `https://samirasamrose.github.io/wfip-platform/`
 - Code Repository: `https://github.com/SamiraSamrose/wfip-platform`
-- Video: ``
+- Video: `https://youtu.be/OgQlscXUK2Y`
 
 
 ## Features
