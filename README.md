@@ -10,9 +10,7 @@ Leadership: Track compliance metrics and demonstrate ROI
 
 By integrating directly into development workflows (linters, transpilers, CI/CD, IDEs), WFIP makes Baseline compatibility data actionable at every stage—from local development through production monitoring.**
 
-- Demo: `https://samirasamrose.github.io/wfip-platform/`
-- Code Repository: `https://github.com/SamiraSamrose/wfip-platform`
-- Video: `https://youtu.be/OgQlscXUK2Y`
+- Video Demo: `https://youtu.be/OgQlscXUK2Y`
 
 
 ## Features
